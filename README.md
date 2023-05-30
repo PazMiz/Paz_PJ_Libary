@@ -1,9 +1,10 @@
+
+
 # I build a Project about Libary Created 3 Table With SqlAlchemy + Flask and return data with json
 # To Use this libary you first need to install the requirments + use virtual env.
 # Customers,Book,Loan. = SQL Table Names 
 
 # I made Customer Data base , Add a new customer , Remover customer , Display all customers  in the libary  # Search customer by name Done 
-
 
 # Add a new book , Display all books  , Remove book - Done in 1 page , Find book by name Done. ,return a book update a book 
 
@@ -17,3 +18,10 @@
  # When you add new loan you wil get unknown customer name unless you enter this customer name in the customer list.
 
 
+git clone https://github.com/PazMiz/Paz_PJ_Libary.git
+cd .\PazPj_Pj_Libary\
+virtualenv env
+.\env\Scripts\activate
+pip install -r requirements.txt
+
+Enjoy :)
