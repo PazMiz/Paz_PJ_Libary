@@ -12,7 +12,7 @@
 # , P.C Also made that if you try to LOAN two same book id you wil get an error, if you duplicate custom id you wil get error , 
 # you wil get a message error that says Loan already exists for the given customer and book."
 
- display all late loans  Not Done
+ # display all late loans done combine it with loans and mark it in red
 
  # When you add new loan you wil get unknown customer name unless you enter this customer name in the customer list.
 
